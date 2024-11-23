@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-At some point I'll think about writing something intersting here
+At some point I'll think about writing something intersting here...
 
 <br>
 Contact e-mail : hugo.bonnell@edu.devinci.fr
