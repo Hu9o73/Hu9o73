@@ -12,7 +12,6 @@ Contact e-mail : hugo.bonnell@edu.devinci.fr
 ### :fire: My Status :
 
 <div>
-    <a href="https://github.com/zeeshan0080">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hu9o73" alt="GitHub Streak" />
 </div>
 
