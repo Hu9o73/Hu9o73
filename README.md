@@ -4,7 +4,7 @@ At some point I'll think about writing something intersting here
 
 <br>
 Feel free to contact me
-Contact e-mail : hugo.bonnell@edu.devinci.fr
+Contact e-mail : hugo@woodpecker-creations.com
 <br>
 
 ##
