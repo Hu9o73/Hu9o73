@@ -33,7 +33,7 @@ Contact e-mail : hugo@woodpecker-creations.com
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1c3c3c" />
   <img alt="LangcGraph" src="https://img.shields.io/badge/LangGraph-053D5B" />
   <img alt="LangFuse" src="https://img.shields.io/badge/LangFuse-E11312" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat" />
+  <img alt="VueJs" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
 </p>
 
 **Databases**
